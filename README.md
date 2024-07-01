@@ -64,3 +64,8 @@ Hosted the page on a platform of your choice (e.g., Vercel, GitHub Pages, Netlif
 Double-checked all requirements and acceptance criteria.
 Provided the hosted page's URL in the submission form.
 Thoroughly reviewed your work to ensure accuracy, functionality, and adherence to the specified guidelines before you submit it.
+
+# Link
+To access this site, please go through the provided link below:
+
+https://single-portfolio-hng.netlify.app/
